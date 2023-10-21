@@ -1,12 +1,12 @@
 # Part 1 : 
 
 ## Week 2:
-- Python Basics With Numpy v3.ipynb
-- Logistic Regression with a Neural Network mindset v3.ipynb
+- Python Basics With Numpy
+- Logistic Regression with a Neural Network mindset
 
 ## Week 3:
-- Planar data classification with one hidden layer v4.ipynb
+- Planar data classification with one hidden layer
 
 ## Week 4:
-- Building your Deep Neural Network - Step by Step v5.ipynb
-- Deep Neural Network - Application v3.ipynb
+- Building your Deep Neural Network - Step by Step
+- Deep Neural Network - Application
