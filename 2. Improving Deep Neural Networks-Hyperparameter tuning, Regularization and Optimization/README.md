@@ -1,12 +1,12 @@
 # Part 2 :
 
 ## Week 5:
- - Initialization.ipynb
- - Regularization.ipynb
- - Gradient Checking v1.ipynb
+ - Initialization
+ - Regularization
+ - Gradient Checking 
 
  ## Week 6:
-  - Optimization methods.ipynb
+  - Optimization methods
 
  ## Week 7:
-  - Tensorflow Tutorial.ipynb
+  - Tensorflow Tutorial
